@@ -1,5 +1,3 @@
-#/bin/bash
+#!/bin/bash/
 
 echo "Hello, Netology!"
-#start
-#stop
