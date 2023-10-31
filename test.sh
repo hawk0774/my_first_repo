@@ -1,5 +1,6 @@
-#/bin/bash
+#!/bin/bash/
 
 echo "Hello, Netology!"
-#start
-#stop
+#stars
+#stopper
+#play
